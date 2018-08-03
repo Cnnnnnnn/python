@@ -1,0 +1,36 @@
+1510207903902	geckodriver	INFO	geckodriver 0.19.1
+1510207903912	geckodriver	INFO	Listening on 127.0.0.1:19960
+1510207905963	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.mtFeol6AEOC5"
+1510207909101	Marionette	INFO	Listening on port 2828
+[GPU 8112] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8112] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7428] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7428] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+rc/chrome/common/ipc_channel_win.cc, line 346
+[Child 7576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+rogram%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510205039100	Marionette	INFO	Enabled via --marionette
+[Parent 7428] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4024] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4024] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510205040949	Marionette	INFO	Listening on port 15826
+1510205041246	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510205041291	Marionette	DEBUG	Register listener.js for window 4294967297
+1510205041326	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510205041857	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510205041858	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1510205042392	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1510205042439	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Se&json=1&p=3&sid=22778_1421_21100_17001_24879_20928&req=2&csor=2&pwd=S&cb=jQuery1102042429070328714935_1510205042149&_=1510205042152, line 1: TypeError: jQuery1102042429070328714935_1510205042149 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=S&json=1&p=3&sid=22778_1421_21100_17001_24879_20928&req=2&csor=1&cb=jQuery1102042429070328714935_1510205042149&_=1510205042151, line 1: TypeError: jQuery1102042429070328714935_1510205042149 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Sele&json=1&p=3&sid=22778_1421_21100_17001_24879_20928&req=2&csor=4&pwd=Sel&cb=jQuery1102042429070328714935_1510205042149&_=1510205042154, line 1: TypeError: jQuery1102042429070328714935_1510205042149 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Sel&json=1&p=3&sid=22778_1421_21100_17001_24879_20928&req=2&csor=3&pwd=Se&cb=jQuery1102042429070328714935_1510205042149&_=1510205042153, line 1: TypeError: jQuery1102042429070328714935_1510205042149 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Seleni&json=1&p=3&sid=22778_1421_21100_17001_24879_20928&req=2&csor=6&pwd=Selen&cb=jQuery1102042429070328714935_1510205042149&_=1510205042156, line 1: TypeError: jQuery1102042429070328714935_1510205042149 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Selenium&json=1&p=3&sid=22778_1421_21100_17001_24879_20928&req=2&csor=8&pwd=Seleniu&cb=jQuery1102042429070328714935_1510205042149&_=1510205042158, line 1: TypeError: jQuery1102042429070328714935_1510205042149 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Seleniu&json=1&p=3&sid=22778_1421_21100_17001_24879_20928&req=2&csor=7&pwd=Seleni&cb=jQuery1102042429070328714935_1510205042149&_=1510205042157, line 1: TypeError: jQuery1102042429070328714935_1510205042149 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Selenium2&json=1&p=3&sid=22778_1421_21100_17001_24879_20928&req=2&csor=9&pwd=Selenium&cb=jQuery1102042429070328714935_1510205042149&_=1510205042159, line 1: TypeError: jQuery1102042429070328714935_1510205042149 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Selen&json=1&p=3&sid=22778_1421_21100_17001_24879_20928&req=2&csor=5&pwd=Sele&cb=jQuery1102042429070328714935_1510205042149&_=1510205042155, line 1: TypeError: jQuery1102042429070328714935_1510205042149 is not a function
+1510205042835	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510205042847	Marionette	INFO	New connections will no longer be accepted
+[Child 1868] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
